@@ -8,19 +8,11 @@ Backend: https://ricebookfan.herokuapp.com
 
 Website Overview:
 
-Login Page :
-
 Login Page:
-<div>
-<img src="/samplefigure/loginpage.png">
-</div>
+![Image text](https://github.com/Jingxuan-Bao/Scoial-Media/blob/83f750df26c0ca70ba269b0a7d89640192402cdb/samplefigure/loginpage.png)
 
 Main Page:
-<div>
-<img src="/samplefigure/mainpage.png">
-</div>
+![Image text](https://github.com/Jingxuan-Bao/Scoial-Media/blob/83f750df26c0ca70ba269b0a7d89640192402cdb/samplefigure/mainpage.png)
 
 Profile Page:
-<div>
-<img src="/samplefigure/profilepage.png">
-</div>
+![Image text](https://github.com/Jingxuan-Bao/Scoial-Media/blob/83f750df26c0ca70ba269b0a7d89640192402cdb/samplefigure/profilepage.png)
