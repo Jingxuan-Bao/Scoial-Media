@@ -2,9 +2,7 @@
 
 A Facebook like social media web application
 
-Frontend: https://fanricebookfinal.surge.sh
-
-Backend: https://ricebookfan.herokuapp.com
+You can visit through ➡️ https://fanricebookfinal.surge.sh
 
 Website Overview:
 
